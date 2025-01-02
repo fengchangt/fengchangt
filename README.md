@@ -34,6 +34,6 @@
 - 🤔 In terms of technology, I am fluent in ST,M language and studying C++ and Linux recently;
 - 📝 See my website: [Just for Life](https://fengchangt.github.io) to get more info.
 
-<!--> ![](profile-3d-contrib/profile-south-season-animate.svg)
+<!-- ![](profile-3d-contrib/profile-south-season-animate.svg)-->
 
 **Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project with me.**
