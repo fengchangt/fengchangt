@@ -23,7 +23,7 @@
 
 **Alumni or Colleagues**
 
-- :rowboat: 2018-2022, graduated from the [ Guilin University Of Electronic Technology](https://www.guet.edu.cn/) is the deepest memories in my whole life, joined the MT lab and our teacher is [Zhang Yinghong](https://www.guet.edu.cn/people2/1110067.html)
+- :rowboat: 2018-2022, graduated from the [ Guilin University Of Electronic Technology](https://www.guet.edu.cn/) is the deepest memories in my whole life, joined the MT lab.
   
 - :speedboat: 2022-now, working at <img height="25" align="top" src="https://www.icloudnews.net/uploadfile/20220824/202208241154494386.png" alt="EdgeMedical Logo"> [EdgeMedical](http://www.edgemed.cn/) as a junior system control algorithm engineer in system control department, responsible for Robotic Kinematics/Dynamic algorithm debug and simulation.
   
